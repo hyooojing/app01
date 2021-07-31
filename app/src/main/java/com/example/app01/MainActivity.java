@@ -78,4 +78,6 @@ public class MainActivity extends AppCompatActivity {
                 break;
         }
     }
+
+    //20210731 손다현 수정
 }
